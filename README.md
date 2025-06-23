@@ -2,7 +2,7 @@
 
 <!-- Animated Hacker Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Neiton-cmd/Neiton-cmd/main/assets/animated-banner.gif"
+  <img src="https://raw.githubusercontent.com/Neiton-cmd/README.PORTFOLIO/BHXl.gif"
        alt="Hacker Animation Banner" width="100%" />
 </p>
 
