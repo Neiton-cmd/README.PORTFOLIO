@@ -9,46 +9,64 @@
 # Hi! I’m **Colosion** 🕶️🛡️
 
 > Ethical Hacker | Pentester | Security Enthusiast
+<!-- Profile & Social Badges -->
+<p align="center">
+  <!-- Profile views -->
+  <img
+    src="https://komarev.com/ghpvc/?username=Neiton-cmd&color=20BF6B"
+    alt="Profile views" />
+  <!-- OSCP Status -->
+  <img
+    src="https://img.shields.io/static/v1?label=OSCP&message=Not%20Certified&color=005A9C&style=flat-square"
+    alt="OSCP Status" />
+  <!-- GitHub Followers -->
+  <img
+    src="https://img.shields.io/github/followers/Neiton-cmd?label=Follow&style=social"
+    alt="Follow" />
+</p>
 
+<!-- TryHackMe Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neiton-cmd&color=green" alt="Profile views" />
-  <img src="https://img.shields.io/badge/OSCP-NotCertified-red.svg" alt="OSCP Badge" />
-  <img src="https://img.shields.io/github/followers/Neiton-cmd?label=Follow&style=social" alt="Follow" />
-<!-- TryHackMe Profile & Machines Solved Badges -->
-<p align="center">
- <a href="https://tryhackme.com/p/Colosion" target="_blank">
-    <!-- ссылка на профиль -->
-    <img src="https://img.shields.io/static/v1?label=TryHackMe&message=Colosion&color=blue&style=flat-square"
-         alt="TryHackMe Profile" />
+  <a href="https://tryhackme.com/p/Colosion" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?label=TryHackMe&message=Colosion&color=E16F1E&style=flat-square"
+      alt="TryHackMe Profile" />
   </a>
   <a href="https://tryhackme.com/p/Colosion" target="_blank">
-    <!-- количество машин -->
-    <img src="https://img.shields.io/static/v1?label=Machines%20Solved&message=68&color=orange&style=flat-square"
-         alt="Machines Solved" />
+    <img
+      src="https://img.shields.io/static/v1?label=Machines%20Solved&message=68&color=E16F1E&style=flat-square"
+      alt="TryHackMe Machines Solved" />
   </a>
 </p>
 
-
-  <!-- HackTheBox Profile Badge -->
-<!-- HackTheBox Profile & Machines Solved Badges -->
+<!-- HackTheBox Badges -->
 <p align="center">
   <a href="https://app.hackthebox.com/profile/overview" target="_blank">
-    <!-- Badge: Profile -->
     <img
-      src="https://img.shields.io/static/v1?label=HackTheBox&message=Colosion&color=brightgreen&style=flat-square"
+      src="https://img.shields.io/static/v1?label=HackTheBox&message=Colosion&color=20BF6B&style=flat-square"
       alt="HackTheBox Profile" />
   </a>
   <a href="https://app.hackthebox.com/profile/overview" target="_blank">
-    <!-- Badge: Machines Solved -->
     <img
-      src="https://img.shields.io/static/v1?label=Machines%20Solved&message=5&color=brightgreen&style=flat-square"
+      src="https://img.shields.io/static/v1?label=Machines%20Solved&message=5&color=20BF6B&style=flat-square"
       alt="HackTheBox Machines Solved" />
   </a>
 </p>
 
-
-
+<!-- Contact Badges -->
+<p align="center">
+  <a href="mailto:yuriysodomawork@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?label=Email&message=Contact&color=F5A623&style=flat-square"
+      alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yurii-sodoma-409b57349/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=0A66C2&style=flat-square"
+      alt="LinkedIn" />
+  </a>
 </p>
+
 
 ---
 
@@ -126,68 +144,28 @@ My dotfiles – zsh, tmux, Vim, VSCode settings
 
 ---
 
-
+<p align="center">
+  <img src="https://github.com/Neiton-cmd/README.PORTFOLIO/blob/main/4LGB.gif"
+       alt="Hacker Animation Banner" width="50%" />
+</p>
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/master/assets/icons/nmap.png" alt="Nmap" width="50" />
-  <img src="https://raw.githubusercontent.com/username/username/master/assets/icons/burpsuite.png" alt="Burp Suite" width="50" />
-  <img src="https://raw.githubusercontent.com/username/username/master/assets/icons/metasploit.png" alt="Metasploit" width="50" />
-  <img src="https://raw.githubusercontent.com/username/username/master/assets/icons/python.png" alt="Python" width="50" />
-  <img src="https://raw.githubusercontent.com/username/username/master/assets/icons/wireshark.png" alt="Wireshark" width="50" />
-</p>
+- 🔍 **Scanning:** Nmap, Masscan, Nessus  
+- 🐚 **Exploitation:** Metasploit, Burp Suite, SQLmap  
+- 🧰 **Manual Testing:** Wireshark, Netcat, Hydra  
+- 🌐 **Web Testing:** Nikto, Burp   
+- 🧪 **Automation:** Python , Bash  
+- 📄 **Documentation:** Markdown, GitHub Pages
+- 🛡️ **Security Standards:** OWASP Top 10 
 
-| Category          | Tools / Technologies                |
-| ----------------- | ----------------------------------- |
-| 🔍 Scanning       | Nmap, Masscan, Nessus               |
-| 🐚 Exploitation   | Metasploit, Burp Suite, SQLmap      |
-| 🧰 Manual Testing | Wireshark, Netcat, Hydra            |
-| 🌐 Web Testing    | OWASP ZAP, Nikto, Burp Collaborator |
-| 🧪 Automation     | Python (Requests, Scapy), Bash      |
-| 📄 Documentation  | Markdown, GitHub Pages              |
+No automated tool, no matter how powerful, can match the depth of analysis and creativity that I bring with my own mind and hands.But we can use them
+
+
 
 ---
 
-## 🚀 Key Projects
 
-### 1. Web Vulnerability Scanner
-
-<p align="center">
-  <a href="https://github.com/username/web-vuln-scanner">
-    <img src="https://raw.githubusercontent.com/username/web-vuln-scanner/main/assets/demo.gif" alt="Web Scanner Demo" width="80%" />
-  </a>
-</p>
-**Repo:** [github.com/username/web-vuln-scanner](https://github.com/username/web-vuln-scanner)  
-**Tech:** Python, Requests, BeautifulSoup  
-**Description:** Automated tool for detecting XSS and SQLi with HTML report generation.
-
-### 2. Network Recon Toolkit
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/net-recon-toolkit/main/screenshots/scan_output.png" alt="Net Recon Output" width="80%" />
-</p>
-**Repo:** [github.com/username/net-recon-toolkit](https://github.com/username/net-recon-toolkit)  
-**Tech:** Bash, Nmap, Masscan  
-**Description:** Bash script for quick subnet scanning and exporting results to CSV.
-
-### 3. CTF Write-ups
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/ctf-writeups/main/assets/ctf_banner.png" alt="CTF Writeups" width="80%" />
-</p>
-**Repo:** [github.com/username/ctf-writeups](https://github.com/username/ctf-writeups)  
-**Description:** Detailed write-ups for Pwn, Reversing, and Forensics challenges with illustrations.
-
----
-
-## 📫 Get in Touch
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://raw.githubusercontent.com/username/username/master/assets/icons/email.png" alt="Email" width="40" /></a>
-  <a href="https://linkedin.com/in/username"><img src="https://raw.githubusercontent.com/username/username/master/assets/icons/linkedin.png" alt="LinkedIn" width="40" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://raw.githubusercontent.com/username/username/master/assets/icons/twitter.png" alt="Twitter" width="40" /></a>
-</p>
 
 ---
 
