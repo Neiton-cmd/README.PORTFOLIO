@@ -30,13 +30,22 @@
 
 
   <!-- HackTheBox Profile Badge -->
+<!-- HackTheBox Profile & Machines Solved Badges -->
 <p align="center">
   <a href="https://app.hackthebox.com/profile/overview" target="_blank">
+    <!-- Badge: Profile -->
     <img
-      src="https://img.shields.io/static/v1?label=HackTheBox&message=Profile&color=brightgreen&style=flat-square"
+      src="https://img.shields.io/static/v1?label=HackTheBox&message=Colosion&color=brightgreen&style=flat-square"
       alt="HackTheBox Profile" />
   </a>
+  <a href="https://app.hackthebox.com/profile/overview" target="_blank">
+    <!-- Badge: Machines Solved -->
+    <img
+      src="https://img.shields.io/static/v1?label=Machines%20Solved&message=5&color=brightgreen&style=flat-square"
+      alt="HackTheBox Machines Solved" />
+  </a>
 </p>
+
 
 
 </p>
