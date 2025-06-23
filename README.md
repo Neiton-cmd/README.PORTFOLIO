@@ -6,7 +6,7 @@
        alt="Hacker Animation Banner" width="50%" />
 </p>
 
-# Hi! I’m **Colosion** 🕶️🛡️
+# Hi Pentester! I’m **Colosion** 🕶️🛡️
 
 > Ethical Hacker | Pentester | Security Enthusiast
 <!-- Profile & Social Badges -->
@@ -163,11 +163,9 @@ No automated tool, no matter how powerful, can match the depth of analysis and c
 
 
 
----
+<p align="center">
+  <img src="https://github.com/Neiton-cmd/README.PORTFOLIO/blob/main/GiZi.gif"
+       alt="Hacker Animation Banner" width="850" height="300"/>
+</p>
 
-
-
----
-
-> "Security is a process, not a product."
 
