@@ -1,9 +1,9 @@
 # README.PORTFOLIO
 
-<!-- Banner Image -->  
-
+<!-- Animated Hacker Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Neiton-cmd/username/master/assets/banner.png" alt="Pentester Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Neiton-cmd/Neiton-cmd/main/assets/animated-banner.gif"
+       alt="Hacker Animation Banner" width="100%" />
 </p>
 
 # Hi! I’m **Colosion** 🕶️🛡️
