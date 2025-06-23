@@ -23,13 +23,21 @@
   </a>
   <a href="https://tryhackme.com/p/Colosion" target="_blank">
     <!-- количество машин -->
-    <img src="https://img.shields.io/static/v1?label=Machines%20Solved&message=108&color=orange&style=flat-square"
+    <img src="https://img.shields.io/static/v1?label=Machines%20Solved&message=68&color=orange&style=flat-square"
          alt="Machines Solved" />
   </a>
 </p>
 
 
-  <img src="https://img.shields.io/badge/HackTheBox-Active-brightgreen.svg" alt="HackTheBox Status" />
+  <!-- HackTheBox Profile Badge -->
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/overview" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?label=HackTheBox&message=Profile&color=brightgreen&style=flat-square"
+      alt="HackTheBox Profile" />
+  </a>
+</p>
+
 
 </p>
 
