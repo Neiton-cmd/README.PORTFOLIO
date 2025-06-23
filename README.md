@@ -14,14 +14,17 @@
   <img src="https://komarev.com/ghpvc/?username=Neiton-cmd&color=green" alt="Profile views" />
   <img src="https://img.shields.io/badge/OSCP-NotCertified-red.svg" alt="OSCP Badge" />
   <img src="https://img.shields.io/github/followers/Neiton-cmd?label=Follow&style=social" alt="Follow" />
-  <!-- TryHackMe Profile & Machines Solved Badges -->
 <!-- TryHackMe Profile & Machines Solved Badges -->
 <p align="center">
-  <a href="https://tryhackme.com/p/Colosion" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-blue.svg" alt="TryHackMe Profile" />
+ <a href="https://tryhackme.com/p/Colosion" target="_blank">
+    <!-- ссылка на профиль -->
+    <img src="https://img.shields.io/static/v1?label=TryHackMe&message=Colosion&color=blue&style=flat-square"
+         alt="TryHackMe Profile" />
   </a>
   <a href="https://tryhackme.com/p/Colosion" target="_blank">
-    <img src="https://img.shields.io/badge/Machines%20Solved%3A%20XX-orange.svg" alt="Machines Solved" />
+    <!-- количество машин -->
+    <img src="https://img.shields.io/static/v1?label=Machines%20Solved&message=108&color=orange&style=flat-square"
+         alt="Machines Solved" />
   </a>
 </p>
 
