@@ -2,8 +2,8 @@
 
 <!-- Animated Hacker Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Neiton-cmd/README.PORTFOLIO/BHXl.gif"
-       alt="Hacker Animation Banner" width="100%" />
+  <img src="https://github.com/Neiton-cmd/README.PORTFOLIO/blob/main/BHXl.gif"
+       alt="Hacker Animation Banner" width="50%" />
 </p>
 
 # Hi! I’m **Colosion** 🕶️🛡️
@@ -14,6 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=Neiton-cmd&color=green" alt="Profile views" />
   <img src="https://img.shields.io/badge/OSCP-NotCertified-red.svg" alt="OSCP Badge" />
   <img src="https://img.shields.io/github/followers/Neiton-cmd?label=Follow&style=social" alt="Follow" />
+  <img src="https://img.shields.io/badge/TryHackMe-1500-blue.svg" alt="TryHackMe Score" />
+  <img src="https://img.shields.io/badge/HackTheBox-Active-brightgreen.svg" alt="HackTheBox Status" />
+
 </p>
 
 ---
