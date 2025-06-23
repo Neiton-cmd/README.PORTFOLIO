@@ -52,27 +52,81 @@
 
 ---
 
-## 🛡️ About Me
+🛡️ About Me
 
-I have been passionately diving into the world of pentesting for nearly a year, sharpening my skills by solving over 100 machines on HackTheBox and TryHackMe and participating in CTF tournaments. While I haven’t yet held a formal professional pentesting role, I consider every completed machine my core project, and I’m actively working on writing detailed write-ups to document my methodology.
+🎓 Background & Experience
 
-My primary focus lies in web application security: I routinely test against OWASP Top 10 vulnerabilities using industry-standard tools such as Burp Suite, Nmap, Metasploit, and LinPEAS. Depending on the challenge, I develop custom Python scripts for port scanning, password attacks, and automation of reconnaissance tasks.
+I have been passionately diving into the world of pentesting for nearly a year, sharpening my skills by solving over 100 machines on HackTheBox and TryHackMe and participating in CTF tournaments. While I haven’t held a formal professional pentesting role yet, I treat every completed machine as a core project—and I’m actively working on writing detailed write‑ups to document my methodology.
 
-I’m currently pursuing a B.Sc. in Computer Science, with plans to obtain the OSCP certification. To deepen my knowledge, I maintain subscriptions to HTB Academy and TryHackMe Labs, though I haven’t taken any formal courses yet. My LinkedIn profile tracks my progress, and I’m working to build my GitHub presence with new projects soon to be open-sourced.
+🔍 Focus & Tools
 
-Every engagement for me is unique: I approach each client’s environment with a tailored methodology—reconnaissance, scanning, exploitation, post-exploitation, and clear reporting—to ensure maximum value and satisfaction. My passion for uncovering vulnerabilities and protecting organizations drives my long-term goal of becoming a Senior Pentester and eventually leading a Red Team.
+Web Application Security: OWASP Top 10 (XSS, SQLi, RCE, CSRF…)
+
+Key Tools: Burp Suite, Nmap, Metasploit, LinPEAS
+
+Automation: Custom Python scripts for port scanning, password attacks, and recon tasks
+
+📚 Education & Certifications
+
+B.Sc. in Computer Science: In progress
+
+Learning Paths: HTB Academy, TryHackMe Labs
+
+Future Goal: OSCP certification
+
+⚙️ Approach & On‑Going Goals
+
+"Every environment is unique—success comes from a tailored methodology."
+
+Methodology: Recon → Scanning → Exploitation → Post‑exploitation → Reporting
+
+Client Focus: Deliver clear, actionable reports to ensure maximum value and satisfaction
+
+Long‑Term Ambition: Become a Senior Pentester and eventually lead a Red Team
 
 ---
 
 ## 📸 My Setup & Environment
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/master/assets/kali_vm.png" alt="Kali VM" width="200" />
-  <img src="https://raw.githubusercontent.com/username/username/master/assets/home_lab.jpg" alt="Home Lab" width="200" />
-  <img src="https://raw.githubusercontent.com/username/username/master/assets/toolkit.png" alt="Toolkit" width="200" />
-</p>
+💻 My Setup & Environment
+
+🐧 Kali Linux Environment
+
+Version: Kali Linux 2024.1 (weekly rolling)
+
+Customizations:
+
+ZSH with Oh-My-Zsh (Powerlevel10k theme)
+
+Tmux configuration for multiplexed sessions
+
+Kali metapackages: kali-linux-default, kali-linux-top10, wireless-tools, docker
+
+🖥️ Hardware & Host OS
+
+Host OS: Windows 11 Pro
+
+CPU: Intel i7-9700K – 8 cores @ 3.60 GHz
+
+RAM: 32 GB DDR4
+
+Storage: 1 TB NVMe SSD
+
+🐧 Other VMs & Containers
+
+Ubuntu 24.04 LTS – development server, Docker host
+
+Windows 10 LTSC – testing Windows-specific exploits
+
+Docker & Docker Compose – quick spin-up of DVWA, Juice Shop, and other vulnerable labs
+
+🔧 Dotfiles & Configurations
+
+My dotfiles – zsh, tmux, Vim, VSCode settings
 
 ---
+
+
 
 ## 🛠️ Skills & Tools
 
