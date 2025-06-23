@@ -15,14 +15,16 @@
   <img src="https://img.shields.io/badge/OSCP-NotCertified-red.svg" alt="OSCP Badge" />
   <img src="https://img.shields.io/github/followers/Neiton-cmd?label=Follow&style=social" alt="Follow" />
   <!-- TryHackMe Profile & Machines Solved Badges -->
+<!-- TryHackMe Profile & Machines Solved Badges -->
 <p align="center">
   <a href="https://tryhackme.com/p/Colosion" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-blue.svg" alt="TryHackMe Profile" />
   </a>
   <a href="https://tryhackme.com/p/Colosion" target="_blank">
-    <img src="https://img.shields.io/badge/Machines%20Solved%3A%20108-orange.svg" alt="Machines Solved" />
+    <img src="https://img.shields.io/badge/Machines%20Solved%3A%20XX-orange.svg" alt="Machines Solved" />
   </a>
 </p>
+
 
   <img src="https://img.shields.io/badge/HackTheBox-Active-brightgreen.svg" alt="HackTheBox Status" />
 
