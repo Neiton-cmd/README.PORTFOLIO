@@ -48,7 +48,7 @@
   </a>
   <a href="https://app.hackthebox.com/profile/overview" target="_blank">
     <img
-      src="https://img.shields.io/static/v1?label=Machines%20Solved&message=5&color=20BF6B&style=flat-square"
+      src="https://img.shields.io/static/v1?label=Machines%20Solved&message=25&color=20BF6B&style=flat-square"
       alt="HackTheBox Machines Solved" />
   </a>
 </p>
